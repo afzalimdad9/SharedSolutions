@@ -101,6 +101,7 @@ The shared solutions:
 - https://github.com/jainmohit2001/short-url
 - https://github.com/dev-details/ai-code-example
 - https://github.com/jengori/short-changed
+- https://github.com/niyazi-eren/url-shortener
 
 ## Build your own diff
 The Challenge: [Write your own diff](https://codingchallenges.fyi/challenges/challenge-diff)
@@ -199,7 +200,7 @@ The shared solutions:
 The Challenge: [Write your own Rate Limiter](https://codingchallenges.fyi/challenges/challenge-rate-limiter)
 
 The shared solutions:
--
+- https://github.com/niyazi-eren/rate-limiter
 
 <!-- // Template
 ## Build your own
