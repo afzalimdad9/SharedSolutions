@@ -1,3 +1,5 @@
+<div id="top"></div>
+
 # Shared Solutions to Coding Challenges
 
 Publicly shared solutions to the [Coding Challenges](https://codingchallenges.fyi/).
@@ -244,3 +246,5 @@ The Challenge: [Write your own]()
 The shared solutions:
 - https://github.com/dudupopkhadze/rate-limiters
 -->
+
+<p align="right">(<a href="#top">🔼 Back to top</a>)</p>
