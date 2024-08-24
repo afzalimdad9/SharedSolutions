@@ -33,6 +33,7 @@ The shared solutions:
 - https://github.com/hlalljie/Word_Count
 - https://github.com/new-AF/my-wc.js
 - https://github.com/akhmettolegen/wc
+- https://github.com/Perchinka/WC-coding-challenges [Python]
 
 ## Build your own JSON Parser
 
@@ -47,6 +48,8 @@ The shared solutions:
 - https://github.com/ebrahim-s-ebrahim/myJsonParser
 - https://github.com/neutrinoks/CodingChallenge/tree/main/json-parser [Rust]
 - https://github.com/Ramzi-Abidi/JSON-parser
+- https://github.com/dhruvSHA256/json-parser
+- https://github.com/Perchinka/ownJSON [Python]
 
 ## Build your own Compression Tool
 
@@ -287,6 +290,7 @@ The shared solutions:
 - https://github.com/niyazi-eren/rate-limiter
 - https://github.com/jainmohit2001/coding-challenges/blob/master/src/27
 - https://github.com/abhijeetnishal/Build-Your-Own-X/tree/master/rate-limiter
+- https://github.com/JoyalAJohney/rate-limiter-go [Go]
 
 ## Build your own Scheduling Automation App
 
