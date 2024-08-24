@@ -26,6 +26,7 @@ The shared solutions:
 - https://github.com/surajkewat/wc-tool
 - https://github.com/shakeib98/ccwc 
 - https://github.com/new-AF/my-wc.js
+- https://github.com/akhmettolegen/wc
 
 ## Build your own JSON Parser
 The Challenge: [Write your own JSON Parser](https://codingchallenges.fyi/challenges/challenge-json-parser)
