@@ -7,7 +7,11 @@ The Challenge: [Write your own wc Tool](https://codingchallenges.fyi/challenges/
 
 The shared solutions:
 - https://github.com/jainmohit2001/coding-challenges/blob/master/src/1
-- https://github.com/ogzhanolguncu/wc-rust
+- https://github.com/Ghurtchu/wc
+- https://github.com/ogzhanolguncu/wc-rus
+- https://github.com/andrenbrandao/wc-tool
+- https://github.com/praveshdev3/wc-go
+- https://github.com/sahasrara62/codingchallenges.fyi/tree/main/word_count
 
 ## Build your own JSON Parser
 The Challenge: [Write your own JSON Parser](https://codingchallenges.fyi/challenges/challenge-json-parser)
@@ -37,6 +41,7 @@ The Challenge: [Write your own Load Balancer](https://codingchallenges.fyi/chall
 The shared solutions:
 - https://github.com/jainmohit2001/coding-challenges/blob/master/src/5
 - https://github.com/Ghurtchu/lb
+- https://github.com/andrenbrandao/load-balancer
 
 ## Build your own Sort Tool
 The Challenge: [Write your own Sort Tool](https://codingchallenges.fyi/challenges/challenge-sort)
